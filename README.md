@@ -23,7 +23,7 @@
 ## 📱 Get in touch
 - Instagram: [click here](https://instagram.com/rahmadan_2912)
 - Email: [click here](mailto:aditpoetra25@gmail.com)
-- Personal Website: (in progress) ⛏⚒
+- Personal Website: [click here](https://landingpage-dasar.herokuapp.com/))
 
 ## 🌱 Repository List
 - [🔎 show repository](https://github.com/Aditya27T?tab=repositories)
