@@ -4,7 +4,8 @@
 
 
 ## 📋 Projects: 
-----------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya27T&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
