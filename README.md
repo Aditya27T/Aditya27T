@@ -3,10 +3,6 @@
 >Hi, 👋I’m Aditya, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world 🧑‍💻. Usually use php, javascript, and htmml programming languages, for website programming I use the laravel framework, bootstrap, and node javascript. I have a high curiosity to learn the features of a system 🚀
 
 
-## 📋 Projects: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya27T&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
 - Learn basic features in laravel framework
@@ -28,3 +24,10 @@
 
 ## 🌱 Repository List
 - [🔎 show repository](https://github.com/Aditya27T?tab=repositories)
+
+
+
+## 📋 Top Langs: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya27T&layout=compact&theme=vision-friendly-dark)]
+
+
