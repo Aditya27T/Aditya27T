@@ -1,6 +1,6 @@
 # Aditya Eka Rahmadani
 
->Hi, 👋I’m Aditya, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world 🧑‍💻. Usually use php, javascript, and htmml programming languages, for website programming I use the laravel framework, bootstrap, and node javascript. I have a high curiosity to learn the features of a system 🚀
+>Hi, 👋I’m Aditya
 
 
 ## 💼 Experience: 
