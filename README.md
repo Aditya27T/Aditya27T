@@ -20,7 +20,7 @@
 ## 📱 Get in touch
 - Instagram: [click here](https://instagram.com/rahmadan_2912)
 - Email: [click here](mailto:aditpoetra25@gmail.com)
-- Personal Website: [click here](profile-svelte-learn.vercel.app)
+- Personal Website: [click here](http://profile-svelte-learn.vercel.app)
 
 ## 🌱 Repository List
 - [🔎 show repository](https://github.com/Aditya27T?tab=repositories)
