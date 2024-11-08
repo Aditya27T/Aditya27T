@@ -28,8 +28,8 @@
 
 
 ## 📋 Top Langs: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya27T)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aditya27t&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/aditya27t/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya27t&hide_progress=true)
+
 
 
 
