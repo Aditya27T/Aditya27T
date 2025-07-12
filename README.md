@@ -26,7 +26,7 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 
 ### 🎓 Latar Belakang Pendidikan
 
--   **[SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id)** - Teknik Telekomunikasi
+-   **[SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id)** - Rekayasa Perangkat Lunak
 -   **[MTSN 2 Ponorogo](https://www.mtsn2ponorogo.sch.id/)**
 
 ---
