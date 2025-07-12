@@ -18,88 +18,71 @@
 
 ---
 
-### 🎯 Current Focus
-
-Saat ini saya sedang mendalami dan berfokus pada area berikut:
-
--   **System Architecture:** Mempelajari design pattern untuk aplikasi berskala besar.
--   **Containerization:** Mengeksplorasi **Docker** dan **Kubernetes** untuk standarisasi environment.
--   **Advanced Backend:** Membangun aplikasi yang lebih kompleks dengan **NestJS** (framework Node.js).
--   **Open Source:** Mencari peluang untuk berkontribusi pada proyek open-source.
-
----
-
 ### 🏆 Project Spotlight
 
-Berikut adalah salah satu proyek yang sedang atau telah saya kerjakan:
-
-### CalmQuest
-Sebuah platform web inovatif untuk asesmen kesehatan mental, memanfaatkan kecerdasan buatan (Google's Gemini AI) untuk memberikan analisis dan feedback yang personal.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4A89F3?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### CodeLN
-Platform e-learning interaktif untuk belajar pemrograman. Dilengkapi dengan *online code editor* yang mendukung berbagai bahasa, memungkinkan siswa untuk langsung praktik dan menguji kode di dalam website.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### SIP (Sistem Informasi Pelaporan)
-Aplikasi web untuk pelaporan kerusakan fasilitas kampus. Memungkinkan mahasiswa dan staf melaporkan kerusakan secara online, yang kemudian dikelola oleh admin melalui backend terpisah.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Sikacling-Cucisepatu
-Aplikasi web manajemen untuk layanan pencucian sepatu, dirancang untuk mengelola pesanan, melacak status pengerjaan, dan data pelanggan secara efisien dari satu dasbor.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### Smart Ndelik v5.0
-Aplikasi mobile berbasis React Native yang terintegrasi dengan model deteksi objek (YOLOv5) untuk klasifikasi biji kopi. Data hasil deteksi dikirim melalui protokol MQTT.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
-</p>
-
-### Greenovate-Energy
-Profil perusahaan modern dan responsif untuk Greenovate-Energy, menampilkan informasi perusahaan, layanan, dan portofolio dengan desain yang bersih dan profesional.
-<p>
-  <b>Tech Stack:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-
 <details>
-  <summary><b>Smart Ndelik v5.0 - Coffee Bean Detection App</b></summary>
+  <summary><b>Lihat Detail Proyek Unggulan (Klik untuk Membuka)</b></summary>
   <br>
+
+  ### CalmQuest
+  Sebuah platform web inovatif untuk asesmen kesehatan mental, memanfaatkan kecerdasan buatan (Google's Gemini AI) untuk memberikan analisis dan feedback yang personal.
   <p>
-    Aplikasi mobile berbasis React Native yang terintegrasi dengan model deteksi objek (YOLOv5) untuk klasifikasi biji kopi secara real-time. Data hasil deteksi dikirim melalui protokol MQTT dan dikelola oleh backend Firebase.
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini_AI-4A89F3?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </p>
+
+  ### CodeIN
+  Platform e-learning interaktif untuk belajar pemrograman. Dilengkapi dengan *online code editor* yang mendukung berbagai bahasa, memungkinkan siswa untuk langsung praktik dan menguji kode di dalam website.
   <p>
-    <b>Tech Stack:</b>
-    <br>
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </p>
+
+  ### SIP (Sistem Informasi Pelaporan)
+  Aplikasi web untuk pelaporan kerusakan fasilitas kampus. Memungkinkan mahasiswa dan staf melaporkan kerusakan secara online, yang kemudian dikelola oleh admin melalui backend terpisah.
+  <p>
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
+
+  ### Sikacling-Cucisepatu
+  Aplikasi web manajemen untuk layanan pencucian sepatu, dirancang untuk mengelola pesanan, melacak status pengerjaan, dan data pelanggan secara efisien dari satu dasbor.
+  <p>
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </p>
+
+  ### Smart Ndelik v5.0
+  Aplikasi mobile berbasis React Native yang terintegrasi dengan model deteksi objek (YOLOv5) untuk klasifikasi biji kopi. Data hasil deteksi dikirim melalui protokol MQTT.
+  <p>
+    <b>Tech Stack:</b><br>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge" />
+  </p>
+
+  ### Greenovate-Energy
+  Profil perusahaan modern dan responsif untuk Greenovate-Energy, menampilkan informasi perusahaan, layanan, dan portofolio dengan desain yang bersih dan profesional.
+  <p>
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
 </details>
+
+---
+
+### 🎯 Current Focus
+-   **System Architecture:** Mempelajari design pattern untuk aplikasi berskala besar.
+-   **Containerization:** Mengeksplorasi **Docker** dan **Kubernetes** untuk standarisasi environment.
+-   **Advanced Backend:** Membangun aplikasi yang lebih kompleks dengan **NestJS**.
+-   **Open Source:** Mencari peluang untuk berkontribusi pada proyek open-source.
 
 ---
 
@@ -152,7 +135,7 @@ Profil perusahaan modern dan responsif untuk Greenovate-Energy, menampilkan info
 
   ### Pendidikan
   - **Universitas Negeri Malang** | S1 Pendidikan Teknik Informatika _(2023 - Sekarang)_
-  - **SMK Telkom Purwokerto** | Teknik Komputer & Jaringan _(Lulus 2023)_
+  - **SMK Telkom Purwokerto** | Rekayasa Perangkat Lunak _(Lulus 2023)_
 </details>
 
 ---
@@ -181,4 +164,4 @@ Profil perusahaan modern dan responsif untuk Greenovate-Energy, menampilkan info
   </a>
 </p>
 
-<p align="right"><sub>Last updated: July 12, 2025</sub></p>
+<p align="right"><sub>Last updated: 12 July 2025</sub></p>
