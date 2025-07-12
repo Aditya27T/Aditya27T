@@ -51,8 +51,6 @@ Berikut adalah teknologi dan perangkat yang saya kuasai:
     -   *S1 Pendidikan Teknik Informatika (2023 - Sekarang)*
 -   **SMK Telkom Purwokerto**
     -   *Rekayasa Perangkat Lunak (Lulus 2023)*
--   **Mtsn 2 Ponorogo**
-    - 
 
 
 ---
