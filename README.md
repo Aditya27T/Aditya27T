@@ -18,7 +18,7 @@
 
 ---
 
-### 🏆 Project Spotlight
+### Project Spotlight
 
 <details>
   <summary><b>Lihat Detail Proyek Unggulan (Klik untuk Membuka)</b></summary>
@@ -78,7 +78,7 @@
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 -   **System Architecture:** Mempelajari design pattern untuk aplikasi berskala besar.
 -   **Containerization:** Mengeksplorasi **Docker** dan **Kubernetes** untuk standarisasi environment.
 -   **Advanced Backend:** Membangun aplikasi yang lebih kompleks dengan **NestJS**.
@@ -122,16 +122,16 @@
 
 ---
 
-### 💼 Experience & Education
+### Experience & Education
 
 <details>
   <summary><b>Lihat Detail Pengalaman & Pendidikan</b></summary>
   
   ### Pengalaman
   **Backend Developer (Internship)** @ **DBT TELKOM**
-  - Mengarsiteki dan mengimplementasikan RESTful API untuk melayani kebutuhan data aplikasi klien.
+  - Mengimplementasikan RESTful API untuk melayani kebutuhan data aplikasi klien.
   - Bertanggung jawab atas alur data, otentikasi, dan otorisasi.
-  - Bekerja sama dengan tim frontend untuk memastikan integrasi yang mulus.
+  - Bekerja sama dengan tim frontend untuk memastikan integrasi.
 
   ### Pendidikan
   - **Universitas Negeri Malang** | S1 Pendidikan Teknik Informatika _(2023 - Sekarang)_
@@ -140,7 +140,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya27t&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" />
