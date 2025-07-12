@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Aditya Eka Rahmadani</h1>
   <p>
-    <b>Software Engineering Student | Backend Developer</b>
+    <b>Undergraduate Informatics Engineering Education | Backend Developer</b>
   </p>
   <p>
     Specializing in building robust, scalable, and efficient web applications.
